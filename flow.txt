@@ -1,0 +1,25 @@
+Frontend
+
+1.SignUp/Login ->List of Courses -> SideBar(List of Courses)->->OnClick any Course ->(LearningPage)
+    
+2.LearningPage->List of Syllabus(title of Topic and sub topics)->OnClick on any subTopic->redirects to ->Lecture Page(if authenticated)
+        List of Syllabus->(right side with Progress Block)
+        
+3.Lecture page ->Concept of topic as text along with video (SideBar with Learning page list of syllabus)->Button to Practice code
+
+4.Coding Page->(problem statement,CodeInput,o/p,test cases)->codeInput has options to select Language->Right side with optional videos
+
+Backend
+
+1.Courses
+2.List of Topics as title
+3.SubTopics for mentioned topics as Lectures
+4.Content of the SubTopics
+5.urls of videos
+6.User Data
+
+Database
+
+1.user Info
+2.Topic Details
+3.urls of videos for each main title
